@@ -1,0 +1,233 @@
+[
+    {
+      "Name": "Melissa Wong",
+      "Title": "Chief Customer & Marketing Officer",
+      "email_phone": "N/A",
+      "linkedin_url": "https://www.linkedin.com/in/melissa-wong-4ba0374",
+      "address": "AIA Central, 1 Connaught Road Central, Hong Kong",
+      "company_name": "AIA Hong Kong and Macau"
+    },
+    {
+      "Name": "Alger Fung",
+      "Title": "Chief Executive Officer",
+      "email_phone": "N/A",
+      "linkedin_url": "https://www.linkedin.com/in/alger-fung-11531210b",
+      "address": "AIA Central, 1 Connaught Road Central, Hong Kong",
+      "company_name": "AIA Hong Kong and Macau"
+    },
+    {
+      "Name": "Stuart A. Spencer",
+      "Title": "Chief Marketing Officer",
+      "email_phone": "N/A",
+      "linkedin_url": "N/A",
+      "address": "AIA Central, 1 Connaught Road Central, Hong Kong",
+      "company_name": "AIA Group"
+    },
+    {
+      "Name": "Amy Lo",
+      "Title": "Head and Chief Executive",
+      "email_phone": "N/A",
+      "linkedin_url": "N/A",
+      "address": "AIA Central, 1 Connaught Road Central, Hong Kong",
+      "company_name": "AIA Hong Kong"
+    },
+    {
+      "Name": "Esther Chan",
+      "Title": "Communications Manager",
+      "email_phone": "+852 2100 1416",
+      "linkedin_url": "N/A",
+      "address": "AIA Central, 1 Connaught Road Central, Hong Kong",
+      "company_name": "AIA Hong Kong"
+    },
+  {
+    "Name": "Jeffrey Ng",
+    "Title": "Group Chief Communications Officer",
+    "email_phone": {
+      "general_media_email": "ccmed@hkex.com.hk",
+      "general_phone": "+852 2522 1122"
+    },
+    "linkedin_url": "https://hk.linkedin.com/in/jeffrey-ng-b83a6660",
+    "address": "Hong Kong Exchanges and Clearing Limited, 8/F, Two Exchange Square, 8 Connaught Place, Central, Hong Kong",
+    "company_name": "Hong Kong Exchanges and Clearing Limited (HKEX)"
+  },
+  {
+    "Name": "Head of Corporate Communications / Media Team",
+    "Title": "Corporate Communications – Media Enquiries",
+    "email_phone": {
+      "media_email": "ccmed@hkex.com.hk",
+      "media_phone": "+852 2522 1122"
+    },
+    "linkedin_url": null,
+    "address": "Hong Kong Exchanges and Clearing Limited, 8/F, Two Exchange Square, 8 Connaught Place, Central, Hong Kong",
+    "company_name": "Hong Kong Exchanges and Clearing Limited (HKEX)"
+  },
+  {
+    "Name": "HKEX Foundation / Charity Partnership Programme",
+    "Title": "HKEX Foundation – Community and Sports-related Sponsorship",
+    "email_phone": {
+      "general_email": "info@hkex.com.hk",
+      "general_phone": "+852 2522 1122"
+    },
+    "linkedin_url": null,
+    "address": "Hong Kong Exchanges and Clearing Limited, 8/F, Two Exchange Square, 8 Connaught Place, Central, Hong Kong",
+    "company_name": "HKEX Foundation Limited / Hong Kong Exchanges and Clearing Limited (HKEX)"
+  },
+  {
+    "Name": "Senior Vice President, Head of Marketing (role example)",
+    "Title": "Head of Marketing",
+    "email_phone": {
+      "general_email": "info@hkex.com.hk",
+      "general_phone": "+852 2522 1122"
+    },
+    "linkedin_url": "https://www.linkedin.com/in/haideebrean",
+    "address": "Hong Kong Exchanges and Clearing Limited, 8/F, Two Exchange Square, 8 Connaught Place, Central, Hong Kong",
+    "company_name": "Hong Kong Exchanges and Clearing Limited (HKEX)"
+  },
+  {
+    "Name": "Global Head of Brand (role example)",
+    "Title": "Global Head of Brand",
+    "email_phone": {
+      "general_email": "info@hkex.com.hk",
+      "general_phone": "+852 2522 1122"
+    },
+    "linkedin_url": null,
+    "address": "Hong Kong Exchanges and Clearing Limited, 8/F, Two Exchange Square, 8 Connaught Place, Central, Hong Kong",
+    "company_name": "Hong Kong Exchanges and Clearing Limited (HKEX)"
+  },
+  {
+    "Name": "Sun Yu",
+    "Title": "Vice Chairman and Chief Executive",
+    "email_phone": "N/A",
+    "linkedin_url": "N/A",
+    "address": "Bank of China Tower, 1 Garden Road, Hong Kong",
+    "company_name": "Bank of China (Hong Kong)"
+  },
+  {
+    "Name": "Stephen Chan",
+    "Title": "Deputy Chief Executive",
+    "email_phone": "N/A",
+    "linkedin_url": "N/A",
+    "address": "Bank of China Tower, 1 Garden Road, Hong Kong",
+    "company_name": "Bank of China (Hong Kong)"
+  },
+  {
+    "Name": "Tereza Hui",
+    "Title": "Head of Marketing Management (Payment, Special Projects & New Media)",
+    "email_phone": "N/A",
+    "linkedin_url": "https://www.linkedin.com/in/tereza-hui-a814075b",
+    "address": "Bank of China Tower, 1 Garden Road, Hong Kong",
+    "company_name": "Bank of China (Hong Kong)"
+  },
+  {
+    "Name": "Simon Lau",
+    "Title": "Section Head of Marketing",
+    "email_phone": "N/A",
+    "linkedin_url": "https://hk.linkedin.com/in/simon-lau-42855135",
+    "address": "Bank of China Tower, 1 Garden Road, Hong Kong",
+    "company_name": "Bank of China (Hong Kong)"
+  },
+  {
+    "Name": "Daisy Wang",
+    "Title": "Deputy Director (related sponsorship)",
+    "email_phone": "N/A",
+    "linkedin_url": "N/A",
+    "address": "Bank of China Tower, 1 Garden Road, Hong Kong",
+    "company_name": "Bank of China (Hong Kong)"
+  }
+,
+    {
+      "Name": "Jardine Matheson Limited – General Enquiries",
+      "Title": "Group Enquiry and Switching Hub for Sponsorship / CSR / Marketing",
+      "email_phone": {
+        "email": "jml@jardines.com",
+        "phone": "+852 2843 8288"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/jardine-matheson/",
+      "address": "Jardine House, 1 Connaught Place, Central, Hong Kong (principal Hong Kong office – confirm via latest company contact page)",
+      "company_name": "Jardine Matheson Limited"
+    },
+    {
+      "Name": "MINDSET Hong Kong | The Jardine Matheson Group Charity",
+      "Title": "Registered Charity of Jardine Matheson – Community & Mental Health Events",
+      "email_phone": {
+        "email": null,
+        "phone": null
+      },
+      "linkedin_url": "https://www.linkedin.com/company/mindset-hong-kong-the-jardine-matheson-group-charity/",
+      "address": "c/o Jardine Matheson Group, Hong Kong (charity initiated by Jardine Matheson; use Group contact or charity page for latest details)",
+      "company_name": "MINDSET Hong Kong | The Jardine Matheson Group Charity"
+    },
+    {
+      "Name": "Jardines Community and Events (JCE), formerly Jardine Sports Association (JSA)",
+      "Title": "Community, Social and Sports Events Function for Jardine Matheson Group",
+      "email_phone": {
+        "email": null,
+        "phone": "+852 2579 2484"
+      },
+      "linkedin_url": null,
+      "address": "Hong Kong (precise office location not fully listed; contact by phone and via website contact form)",
+      "company_name": "Jardines Community and Events (JCE)"
+    },
+    {
+      "Name": "Jardine Matheson – Sustainability & Community (via ReThink HK listing)",
+      "Title": "Sustainability / Community Engagement Contact Point",
+      "email_phone": {
+        "email": "jml@jardines.com",
+        "phone": "+852 2843 8288"
+      },
+      "linkedin_url": "https://www.linkedin.com/company/jardine-matheson/",
+      "address": "Jardine House, 1 Connaught Place, Central, Hong Kong (use current address from official contact page when sending formal proposals)",
+      "company_name": "Jardine Matheson Limited"
+    },
+    {
+      "Name": "Jardine Matheson – Website Contact Form",
+      "Title": "Online Contact Gateway (for Sponsorship / CSR Enquiries)",
+      "email_phone": {
+        "email": "web-form (no direct email publicly listed)",
+        "phone": null
+      },
+      "linkedin_url": "https://www.linkedin.com/company/jardine-matheson/",
+      "address": "Online only – messages routed internally by Jardine Matheson",
+      "company_name": "Jardine Matheson Holdings Limited"
+    },
+  {
+    "Name": "Chris Liu",
+    "Title": "Director of Corporate Communications",
+    "email_phone": "Email: media@shkp.com (group media contact, likely under his purview)", 
+    "linkedin_url": "https://rocketreach.co/sun-hung-kai-properties-limited-marketing-department_b5c75446f42e0d10", 
+    "address": "45/F, Sun Hung Kai Centre, 30 Harbour Road, Wan Chai, Hong Kong", 
+    "company_name": "Sun Hung Kai Properties Limited" 
+  },
+  {
+    "Name": "Group CSR & Communications Head (exact Name not specified)",
+    "Title": "Group HR Director, Head of HR cum CSR & Communications (overseeing CSR and sports-for-charity initiatives)", 
+    "email_phone": "General CSR / community contact via shkp@shkp.com, Tel: (852) 2827 8111", 
+    "linkedin_url": "https://www.linkedin.com/company/sun-hung-kai-properties-limited/", 
+    "address": "45/F, Sun Hung Kai Centre, 30 Harbour Road, Wan Chai, Hong Kong", 
+    "company_name": "Sun Hung Kai Properties Limited" 
+  },
+  {
+    "Name": "Adam Kwok",
+    "Title": "Executive Director (publicly representing SHKP in major sports events such as the 15th National Games support and torch relay)", 
+    "email_phone": "Through group media contact: media@shkp.com; Tel: (852) 2827 8111", 
+    "linkedin_url": "Not publicly confirmed; recommended approach is outreach via corporate channels", 
+    "address": "45/F, Sun Hung Kai Centre, 30 Harbour Road, Wan Chai, Hong Kong", 
+    "company_name": "Sun Hung Kai Properties Limited" 
+  },
+  {
+    "Name": "Thomas Kwok",
+    "Title": "Co‑Chairman, The Community Chest Sun Hung Kai Properties Corporate Challenge Organizing Committee; Director, SHKP‑Kwoks’ Foundation (actively involved in sports‑for‑charity sponsorship decisions)", 
+    "email_phone": "Via SHKP Charitable Fund / corporate challenge media: media@shkp.com; Tel: (852) 2827 8111", 
+    "linkedin_url": "Not publicly confirmed; contact via SHKP corporate / foundation channels", 
+    "address": "Sun Hung Kai Centre, 30 Harbour Road, Wan Chai, Hong Kong", 
+    "company_name": "Sun Hung Kai Properties Limited / SHKP‑Kwoks’ Foundation" 
+  },
+  {
+    "Name": "Community Investment / Sports for Charity Team (specific managers not listed)",
+    "Title": "Community Investment and Charity – Sports for Charity and Sustainability (team responsible for sports sponsorships such as HK Cyclothon, 10K Championships, and other sporting events)", 
+    "email_phone": "General group enquiry: shkp@shkp.com; Tel: (852) 2827 8111", 
+    "linkedin_url": "https://www.linkedin.com/company/sun-hung-kai-properties-limited/", 
+    "address": "45/F, Sun Hung Kai Centre, 30 Harbour Road, Wan Chai, Hong Kong", 
+    "company_name": "Sun Hung Kai Properties Limited" 
+  }
+]
