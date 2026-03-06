@@ -94,7 +94,7 @@ if not filtered_df.empty:
             st.markdown("#### Company Demographics")
             st.write(f"**Industry:** {selected_company['Industry']}")
             st.write(f"**Address:** {selected_company['Address']}")
-            st.write(f"**Website:** [{selected_company['URL']}](http://{selected_company['URL']})")
+            st.write(f"**Website:** [{selected_company['Website']}](http://{selected_company['Website']})")
             st.write(f"**LinkedIn:** [{selected_company['LinkedIn']}](https://{selected_company['LinkedIn']})")
             
             st.markdown("#### Social Media Measures")
@@ -118,7 +118,7 @@ if not filtered_df.empty:
             
             if not company_staff.empty:
                 st.dataframe(
-                    company_staff[["Contact Name", "Role", "Connection Strength", "Previous HKJC Interaction"]],
+                    company_staff[["Contact Name", "Role", "Connection Strength", "Linkedin", "Previous HKJC Interaction", "Link of HKJC Interaction evidance"]],
                     hide_index=True,
                     use_container_width=True
                 )
